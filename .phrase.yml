@@ -9,10 +9,10 @@ phrase:
 
     sources:
 
-    - file: "./Sample_<locale_code>.xml"
+    - file: "./Jake_<locale_code>.properties"
 
   pull:
 
     targets:
 
-    - file: "./Sample_<locale_code>.xml"
+    - file: "./Jake_<locale_code>.properties"
