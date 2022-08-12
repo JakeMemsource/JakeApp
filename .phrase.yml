@@ -1,9 +1,9 @@
 phrase:
   access_token: "b7fc60cd08e349735c546d147186900a91ec509bf763e515ea531affb3cd4c29"
   
-  project_id: "*****"
+  project_id: "3c7ad23566afde5d70c4afd7cfe77104"
 
-  file_format: "xml"
+  file_format: "properties"
 
   push:
 
