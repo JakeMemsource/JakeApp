@@ -10,6 +10,7 @@ phrase:
     sources:
 
     - file: "./Jake_<locale_code>.properties"
+    - autotranslate: true
 
   pull:
 
