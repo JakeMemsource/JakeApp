@@ -19,3 +19,6 @@ phrase:
     targets:
 
     - file: "./Jake_<locale_code>.properties"
+      params:
+        encoding: UTF-8
+        
