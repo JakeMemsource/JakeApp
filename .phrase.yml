@@ -12,7 +12,8 @@ phrase:
     - file: "./Jake_<locale_code>.properties"
       params:
         locale_id: b52058f141933db4f4f54367254d640e
-        autotranslate: true 
+        autotranslate: true
+        encoding: UTF-8
 
   pull:
 
